@@ -17,7 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "WeaveCraft",
-  description: "Code your way to perfect baskets with AI-powered weaving assistance",
+  description:
+    "Code your way to perfect baskets with AI-powered weaving assistance",
 };
 
 export default function RootLayout({

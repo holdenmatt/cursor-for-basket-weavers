@@ -45,13 +45,13 @@
 
 :root {
   --radius: 0.625rem;
-  
+
   /* WeaveCraft Color Palette */
-  --weavecraft-taupe: #D2B48C;
-  --weavecraft-electric-teal: #00CED1;
-  --weavecraft-hot-pink: #FF69B4;
-  --weavecraft-fiber-brown: #8B4513;
-  
+  --weavecraft-taupe: #d2b48c;
+  --weavecraft-electric-teal: #00ced1;
+  --weavecraft-hot-pink: #ff69b4;
+  --weavecraft-fiber-brown: #8b4513;
+
   /* Design System Colors */
   --background: oklch(0.94 0.02 60); /* Warm taupe background */
   --foreground: oklch(0.145 0 0);
