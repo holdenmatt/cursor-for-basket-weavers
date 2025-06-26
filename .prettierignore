@@ -1,0 +1,6 @@
+README.md
+CLAUDE.md
+pnpm-lock.yaml
+
+# Don't reformat shadcn/ui components
+src/components/ui/**
